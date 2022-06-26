@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋Hi there I'm Bogeun
+
+- 🌱 I’m currently learning JAVA & Spring
 
 <!--
 **Bogeunk/Bogeunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
